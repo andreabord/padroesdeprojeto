@@ -8,7 +8,7 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 
 - [Adapter](https://github.com/andreabord/padroesdeprojeto/wiki/Adapter)
 - [Decorator](https://github.com/andreabord/padroesdeprojeto/wiki/Decorator)
-
+- [Proxy](https://github.com/andreabord/padroesdeprojeto/wiki/Proxy)
 ### Comportamental
 
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
