@@ -2,7 +2,7 @@
 Repositório para documentação de padrões de projeto de software desenvolvido pelos alunos da disciplina de Engenharia de Software do Curso de Engenharia de Computação da UFSC.
 
 ### De criação
-- [Factory] (https://github.com/andreabord/padroesdeprojeto/wiki/Factory)
+- [Factory](https://github.com/andreabord/padroesdeprojeto/wiki/Factory)
 
 ### Estutural
 
