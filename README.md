@@ -13,6 +13,7 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 ### Comportamental
 
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
+- [Template Method](https://github.com/andreabord/padroesdeprojeto/wiki/Template-Method)
 
 
 
