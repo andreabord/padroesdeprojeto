@@ -10,6 +10,7 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 - [Decorator](https://github.com/andreabord/padroesdeprojeto/wiki/Decorator)
 - [Proxy](https://github.com/andreabord/padroesdeprojeto/wiki/Proxy)
 - [Bridge](https://github.com/andreabord/padroesdeprojeto/wiki/Bridge)
+- [Flyweight](https://github.com/andreabord/padroesdeprojeto/wiki/Flyweight)
 ### Comportamental
 
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
