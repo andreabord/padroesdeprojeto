@@ -15,6 +15,7 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
 - [Template Method](https://github.com/andreabord/padroesdeprojeto/wiki/Template-Method)
+- [Visitor](https://github.com/andreabord/padroesdeprojeto/wiki/Visitor)
 
 
 
