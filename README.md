@@ -13,8 +13,6 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 - [Flyweight](https://github.com/andreabord/padroesdeprojeto/wiki/Flyweight)
 ### Comportamental
 
+- [Chain of Responsibility](https://github.com/andreabord/padroesdeprojeto/wiki/Chain-of-Responsibility)
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
 - [Template Method](https://github.com/andreabord/padroesdeprojeto/wiki/Template-Method)
-
-
-
