@@ -16,3 +16,4 @@ Repositório para documentação de padrões de projeto de software desenvolvido
 - [Chain of Responsibility](https://github.com/andreabord/padroesdeprojeto/wiki/Chain-of-Responsibility)
 - [Mediator](https://github.com/andreabord/padroesdeprojeto/wiki/Mediator)
 - [Template Method](https://github.com/andreabord/padroesdeprojeto/wiki/Template-Method)
+- [Command](https://github.com/andreabord/padroesdeprojeto/wiki/Command)
